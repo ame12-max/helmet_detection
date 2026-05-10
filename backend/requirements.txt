@@ -1,0 +1,12 @@
+flask
+flask-cors
+tensorflow-cpu
+opencv-python
+ultralytics
+scikit-learn
+xgboost
+numpy
+pandas
+matplotlib
+easyocr
+pillow
