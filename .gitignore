@@ -1,4 +1,3 @@
-dataset
 uploads
 logs
 *.log
@@ -21,3 +20,4 @@ backend/venv/
 ENV/
 env.bak/
 venv.bak/
+
